@@ -11,11 +11,11 @@
 
 #### Environnement de travail
 
-* [ ] Configuration de son environnement de travail
-  * [ ] Mise à jour OS (Linux, Windows, Mac)
-  * [ ] Installation (Discord)
+* [X] Configuration de son environnement de travail
+  * [X] Mise à jour OS (Linux, Windows, Mac)
+  * [X] Installation (Discord)
   * [ ] Installation navigateur (Developper Edition)
-  * [ ] Création et configuration Mail pro 
+  * [X] Création et configuration Mail pro 
   * [ ] Création et configuration Twitter pro 
 
 * [ ] Découverte de Linux :
@@ -24,15 +24,15 @@
   * [ ] Comprendre l'arborescence de Linux
 
 * [ ] Découverte du Terminal : 
-  * [ ] Comprendre la différence entre une interface en ligne de commande et une interface graphique
+  * [X] Comprendre la différence entre une interface en ligne de commande et une interface graphique
   * [ ] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH 
   * [ ] Comprendre comment fonctionne un shell
   * [ ] Comprendre le fonctionnement des alias
   * [ ] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
   * [ ] Comprendre le principe des options dans les commandes
 
-* [ ] Choix de son éditeur, configuration et customisation
-* [ ] Choix / installation d'un terminal (Linux, Mac ou Windows)
+* [X] Choix de son éditeur, configuration et customisation
+* [X] Choix / installation d'un terminal (Linux, Mac ou Windows)
 
 * [ ] Comprendre l'intérêt des raccourcis clavier
 * [ ] Découverte des raccourcis clavier Linux : 
