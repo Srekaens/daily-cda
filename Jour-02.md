@@ -29,7 +29,7 @@
   * [ ] Comprendre comment fonctionne un shell
   * [ ] Comprendre le fonctionnement des alias
   * [ ] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
-  * [ ] Comprendre le principe des options dans les commandes
+  * [X] Comprendre le principe des options dans les commandes
 
 * [X] Choix de son éditeur, configuration et customisation
 * [X] Choix / installation d'un terminal (Linux, Mac ou Windows)
