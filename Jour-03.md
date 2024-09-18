@@ -13,30 +13,30 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 - [X] Comprendre le versionning
 - [ ] Comprendre le fonctionnement de Git
   - [X] Comprendre le staging de Git
-  - [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
-    - [ ] git init
+  - [X] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
+    - [X] git init
     - [X] git add
     - [X] git status
     - [X] git commit
     - [X] git pull
     - [X] git push
     - [X] git clone
-    - [ ] git remote
+    - [X] git remote
 - [ ] Faire le parcours Git-it pour les débutants (Nodeschool.io)
 - [X] Faire ses premiers commits sur les daily objectives
 - [X] Faire ses premiers pushs des daily-objectives sur son compte Github
 - [X] Faire ses première manipulations de versionning en CLI only (init, push, add, commit, status, pull)
 
-* [ ] Comprendre les termes "local", "origin" et "upstream"
+* [X] Comprendre les termes "local", "origin" et "upstream"
 * [X] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
 * [X] Faire ses premiers pushs des daily-objectives sur son compte Github
-* [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :
-  - [ ] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
-  - [ ] https://www.conventionalcommits.org/fr/v1.0.0/
-  - [ ] Renommer son dernier commit en respectant cette convention
+* [X] Découvrir les conventions de nommage de son versionning avec la convention Angular :
+  - [X] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
+  - [X] https://www.conventionalcommits.org/fr/v1.0.0/
+  - [X] Renommer son dernier commit en respectant cette convention
 * [ ] Comprendre le fonctionnement des branches dans Git :
   - [ ] Lister, changer, créer, supprimer des branches
-  - [ ] Quelle est la différence entre `Git switch` et `Git checkout`
+  - [X] Quelle est la différence entre `Git switch` et `Git checkout`
 * [ ] Comprendre le merge dans Git
   - [ ] Comprendre le "fast forward"
   - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
