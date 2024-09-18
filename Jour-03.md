@@ -15,21 +15,21 @@ Seulement si le wargame bandit est au niveau 5 minimum :
   - [X] Comprendre le staging de Git
   - [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
     - [ ] git init
-    - [ ] git add
-    - [ ] git status
-    - [ ] git commit
-    - [ ] git pull
-    - [ ] git push
-    - [ ] git clone
+    - [X] git add
+    - [X] git status
+    - [X] git commit
+    - [X] git pull
+    - [X] git push
+    - [X] git clone
     - [ ] git remote
 - [ ] Faire le parcours Git-it pour les débutants (Nodeschool.io)
-- [ ] Faire ses premiers commits sur les daily objectives
-- [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
-- [ ] Faire ses première manipulations de versionning en CLI only (init, push, add, commit, status, pull)
+- [X] Faire ses premiers commits sur les daily objectives
+- [X] Faire ses premiers pushs des daily-objectives sur son compte Github
+- [X] Faire ses première manipulations de versionning en CLI only (init, push, add, commit, status, pull)
 
 * [ ] Comprendre les termes "local", "origin" et "upstream"
-* [ ] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
-* [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
+* [X] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
+* [X] Faire ses premiers pushs des daily-objectives sur son compte Github
 * [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :
   - [ ] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
   - [ ] https://www.conventionalcommits.org/fr/v1.0.0/
