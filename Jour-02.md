@@ -3,7 +3,7 @@
 ### Mardi 17/09/2024 :
 
 
-* [ ] Comprendre le métier de développeur, aperçu sur le mindset du dev
+* [X] Comprendre le métier de développeur, aperçu sur le mindset du dev
 * [ ] Élaboration d’une stratégie pour l’anglais
 * [X] Savoir comment aborder la gestion de son temps
 * [X] Savoir comment poser des questions
@@ -14,18 +14,17 @@
 * [X] Configuration de son environnement de travail
   * [X] Mise à jour OS (Linux, Windows, Mac)
   * [X] Installation (Discord)
-  * [ ] Installation navigateur (Developper Edition)
-  * [X] Création et configuration Mail pro 
-  * [ ] Création et configuration Twitter pro 
+  * [X] Installation navigateur (Developper Edition)
+  * [X] Création et configuration Mail pro
 
-* [ ] Découverte de Linux :
-  * [ ] Savoir ce qu'est Linux
-  * [ ] Savoir ce qu'est une distribution Linux
-  * [ ] Comprendre l'arborescence de Linux
+* [X] Découverte de Linux :
+  * [X] Savoir ce qu'est Linux
+  * [X] Savoir ce qu'est une distribution Linux
+  * [X] Comprendre l'arborescence de Linux
 
-* [ ] Découverte du Terminal : 
+* [X] Découverte du Terminal : 
   * [X] Comprendre la différence entre une interface en ligne de commande et une interface graphique
-  * [ ] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH   
+  * [X] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH   
   * [X] Comprendre comment fonctionne un shell
   * [X] Comprendre le fonctionnement des alias
   * [ ] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
@@ -34,9 +33,9 @@
 * [X] Choix de son éditeur, configuration et customisation
 * [X] Choix / installation d'un terminal (Linux, Mac ou Windows)
 
-* [ ] Comprendre l'intérêt des raccourcis clavier
-* [ ] Découverte des raccourcis clavier Linux : 
-  * [ ] Navigateur (fenêtres, onglets, navigation, etc …)
-  * [ ] Terminal (fenêtres, onglets, commandes)
-  * [ ] Découverte et installation de Albert (Linux) / Alfred (Mac)
+* [X] Comprendre l'intérêt des raccourcis clavier
+* [X] Découverte des raccourcis clavier Linux : 
+  * [X] Navigateur (fenêtres, onglets, navigation, etc …)
+  * [X] Terminal (fenêtres, onglets, commandes)
+  * [X] Découverte et installation de Albert (Linux) / Alfred (Mac)
 
