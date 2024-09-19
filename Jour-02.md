@@ -5,8 +5,8 @@
 
 * [ ] Comprendre le métier de développeur, aperçu sur le mindset du dev
 * [ ] Élaboration d’une stratégie pour l’anglais
-* [ ] Savoir comment aborder la gestion de son temps
-* [ ] Savoir comment poser des questions
+* [X] Savoir comment aborder la gestion de son temps
+* [X] Savoir comment poser des questions
 * [ ] Savoir comment aborder un problème
 
 #### Environnement de travail
@@ -25,9 +25,9 @@
 
 * [ ] Découverte du Terminal : 
   * [X] Comprendre la différence entre une interface en ligne de commande et une interface graphique
-  * [ ] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH 
-  * [ ] Comprendre comment fonctionne un shell
-  * [ ] Comprendre le fonctionnement des alias
+  * [ ] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH   
+  * [X] Comprendre comment fonctionne un shell
+  * [X] Comprendre le fonctionnement des alias
   * [ ] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
   * [X] Comprendre le principe des options dans les commandes
 
