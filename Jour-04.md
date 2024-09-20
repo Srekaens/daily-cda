@@ -3,7 +3,7 @@
 ### Jeudi 19/09/2024 :
 
 - [X] Finaliser les dailys précédents
-- [ ] Commencer à réfléchir à son projet Fil rouge
+- [x] Commencer à réfléchir à son projet Fil rouge
 
 #### Github + Gitflow
 
