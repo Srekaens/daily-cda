@@ -48,6 +48,6 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 - [X] Découvrir l'interface de Github :
   - [X] Pull Requests
   - [X] Branches
-  - [ ] Issues
-  - [ ] Settings projet
-  - [ ] Settings profile
+  - [x] Issues
+  - [x] Settings projet
+  - [x] Settings profile
