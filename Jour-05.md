@@ -18,12 +18,12 @@
 - [x] `.gitignore` global ou pas ?
 - [X] Comprendre quelle est la différence entre `git pull` et `git fetch`
   - [x] À quoi sert la commande `git fetch —prune`
-  - [ ] Comment configurer mon git pour que ce soit fait automatiquement ?
+  - [x] Comment configurer mon git pour que ce soit fait automatiquement ?
 - [ ] Configurer son git :
   - [ ] Editeur
   - [ ] Différenciateur (par ex : Delta)
   - [ ] Aliases
-  - [ ] Comprendre la différence entre config locale, globale et système
+  - [x] Comprendre la différence entre config locale, globale et système
 
 ### IA
 
