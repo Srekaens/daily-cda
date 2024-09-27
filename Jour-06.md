@@ -18,7 +18,7 @@
 
 ### Github
 
-- [ ] Finir les dailys précédents
+- [x] Finir les dailys précédents
 - [ ] Découverte de Github CLI (pour ceux qui ont travaillé sur autre chose la semaine précédente)
   - [ ] Créer un cheat sheet sur Github CLI (individuel)
   - [ ] Installation et connexion
