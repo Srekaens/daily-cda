@@ -9,7 +9,7 @@
 
 ### SCRUM
 
-- [ ] Savoir réaliser un daily meeting
+- [x] Savoir réaliser un daily meeting
 - [ ] Etudier les rapports SCRUM
   - [ ] Etudier la vélocité
   - [ ] Savoir construire le burndown Chart
@@ -22,7 +22,7 @@
   - [ ] Objectifs
   - [ ] Participants
   - [ ] Fonctionnement
-- [ ] Etude des outils
+- [x] Etude des outils
   - [ ] GitHub Project
-  - [ ] Trello
+  - [x] Trello
   - [ ] Jira
