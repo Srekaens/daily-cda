@@ -19,7 +19,7 @@
 ### Github
 
 - [x] Finir les dailys précédents
-- [ ] Découverte de Github CLI (pour ceux qui ont travaillé sur autre chose la semaine précédente)
+- [x] Découverte de Github CLI (pour ceux qui ont travaillé sur autre chose la semaine précédente)
   - [ ] Créer un cheat sheet sur Github CLI (individuel)
   - [ ] Installation et connexion
   - [ ] Faire le tour du propriétaire
@@ -33,9 +33,9 @@
   - [x] Installation et configuration
   - [x] Intégration dans son editeur / workflow
 - [x] Configurer son git :
-  - [ ] Editeur par défaut (Nano, Vim, VsCode ou celui que vous voulez)
+  - [x] Editeur par défaut (Nano, Vim, VsCode ou celui que vous voulez)
   - [ ] Différenciateur (par ex : Delta)
-  - [ ] Aliases
+  - [x] Aliases
   - [x] Comprendre la différence entre config locale, globale et système
 - [ ] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
 - [ ] Savoir travailler avec `git fetch`
