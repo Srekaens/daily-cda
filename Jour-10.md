@@ -23,6 +23,6 @@
   - [x] Participants
   - [x] Fonctionnement
 - [x] Etude des outils
-  - [ ] GitHub Project
+  - [x] GitHub Project
   - [x] Trello
-  - [ ] Jira
+  - [x] Jira
