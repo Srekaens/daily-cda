@@ -3,9 +3,9 @@
 ## Jeudi 10/10/2024 :
 
 
-- [ ] Recueil des besoins :
-    - [ ] Préparer le questionnaire du premier rendez-vous client (tech et non tech)
-    - [ ] Préparer la partie générique du mail récapitulatif après rendez-vous
+- [x] Recueil des besoins :
+    - [x] Préparer le questionnaire du premier rendez-vous client (tech et non tech)
+    - [x] Préparer la partie générique du mail récapitulatif après rendez-vous
     - [ ] Collecter les exigences fonctionnelles et non fonctionnelles
     - [ ] Prioriser les besoins en fonction de leur importance
 - [ ] Identification des règles de gestion :
