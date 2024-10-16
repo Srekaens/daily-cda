@@ -10,7 +10,7 @@
 ### SCRUM
 
 - [x] Savoir réaliser un daily meeting
-- [ ] Etudier les rapports SCRUM
+- [x] Etudier les rapports SCRUM
   - [ ] Etudier la vélocité
   - [ ] Savoir construire le burndown Chart
   - [ ] Comprendre le tableau de la backlog
