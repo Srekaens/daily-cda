@@ -18,10 +18,10 @@
   - [x] Comprendre les Objectifs
   - [x] Voir les différents supports possibles
   - [x] Trouver les participants
-- [ ] Etudier le rituel de la review
-  - [ ] Objectifs
-  - [ ] Participants
-  - [ ] Fonctionnement
+- [x] Etudier le rituel de la review
+  - [x] Objectifs
+  - [x] Participants
+  - [x] Fonctionnement
 - [x] Etude des outils
   - [ ] GitHub Project
   - [x] Trello
