@@ -7,7 +7,7 @@
     - [x] Préparer le questionnaire du premier rendez-vous client (tech et non tech)
     - [x] Préparer la partie générique du mail récapitulatif après rendez-vous
     - [x] Collecter les exigences fonctionnelles et non fonctionnelles
-    - [ ] Prioriser les besoins en fonction de leur importance
+    - [x] Prioriser les besoins en fonction de leur importance
 - [ ] Identification des règles de gestion :
     - [ ] Préparer les règles métier et les processus existants
     - [ ] Déterminer les contraintes légales et réglementaires
