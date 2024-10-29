@@ -4,12 +4,12 @@
 
 ### Préparation du repository pour le Dossier Professionnel (DP)
 
-- [ ] Initialisation du repository selon les exigences du titre
-  - [ ] Création d'un README.md professionnel détaillant :
+- [x] Initialisation du repository selon les exigences du titre
+  - [x] Création d'un README.md professionnel détaillant :
     - [ ] Le contexte du projet
     - [ ] Les objectifs
     - [ ] Les technologies utilisées
-    - [ ] L'architecture globale
+    - [x] L'architecture globale
 
 - [ ] Mise en place de la structure documentaire pour les compétences du titre
   - [ ] Dossier "Conception" pour le bloc 1
