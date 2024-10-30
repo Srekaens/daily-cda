@@ -9,12 +9,12 @@
   - [ ] Savoir Expliquer les avantages de PostgreSQL
   - [ ] Savoir Choisir les cas d'usage adaptés à PostgreSQL
 
-- [ ] Installation et Configuration
-  - [ ] Installation de PostgreSQL sur la machine
-  - [ ] Installation de pgAdmin 4
-  - [ ] Installation de pgcli
-  - [ ] Configuration initiale
-    - [ ] Ports
+- [x] Installation et Configuration
+  - [x] Installation de PostgreSQL sur la machine
+  - [x] Installation de pgAdmin 4
+  - [x] Installation de pgcli
+  - [x] Configuration initiale
+    - [x] Ports
     - [ ] Mot de passe postgres
     - [ ] Création du premier utilisateur
   - [ ] Test de la connexion
