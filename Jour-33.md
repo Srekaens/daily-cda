@@ -26,13 +26,13 @@
     - [x] Savoir supprimer des utilisateurs avec DROP USER
     - [x] Savoir utiliser les rôles PostgreSQL
   
-  - [ ] Gestion des droits
-    - [ ] Savoir attribuer des privilèges avec GRANT
-      - [ ] Droits sur les bases de données
-      - [ ] Droits sur les tables
-      - [ ] Droits sur les colonnes
-    - [ ] Gérer la révocation avec REVOKE
-      - [ ] Comment retirer des droits sur une base de données, une table ou une colonne ?
+  - [x] Gestion des droits
+    - [x] Savoir attribuer des privilèges avec GRANT
+      - [x] Droits sur les bases de données
+      - [x] Droits sur les tables
+      - [x] Droits sur les colonnes
+    - [x] Gérer la révocation avec REVOKE
+      - [x] Comment retirer des droits sur une base de données, une table ou une colonne ?
       - [ ] Quel est l'impact d'une révocation en cascade ?
 
   - [ ] Les bonnes pratiques de sécurité
