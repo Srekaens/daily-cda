@@ -19,12 +19,12 @@
     - [x] Création du premier utilisateur
   - [x] Test de la connexion
 
-- [ ] Data Control Language (DCL)
-  - [ ] Gestion des utilisateurs
-    - [ ] Savoir construire des requêtes CREATE USER
-    - [ ] Savoir modifier des utilisateurs avec ALTER USER
-    - [ ] Savoir supprimer des utilisateurs avec DROP USER
-    - [ ] Savoir utiliser les rôles PostgreSQL
+- [x] Data Control Language (DCL)
+  - [x] Gestion des utilisateurs
+    - [x] Savoir construire des requêtes CREATE USER
+    - [x] Savoir modifier des utilisateurs avec ALTER USER
+    - [x] Savoir supprimer des utilisateurs avec DROP USER
+    - [x] Savoir utiliser les rôles PostgreSQL
   
   - [ ] Gestion des droits
     - [ ] Savoir attribuer des privilèges avec GRANT
