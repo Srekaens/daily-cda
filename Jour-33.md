@@ -4,10 +4,10 @@
 
 ### Introduction à PostgreSQL et DCL
 
-- [ ] Découverte de PostgreSQL
-  - [ ] Identifier les différences entre MySQL et PostgreSQL
-  - [ ] Savoir Expliquer les avantages de PostgreSQL
-  - [ ] Savoir Choisir les cas d'usage adaptés à PostgreSQL
+- [x] Découverte de PostgreSQL
+  - [x] Identifier les différences entre MySQL et PostgreSQL
+  - [x] Savoir Expliquer les avantages de PostgreSQL
+  - [x] Savoir Choisir les cas d'usage adaptés à PostgreSQL
 
 - [x] Installation et Configuration
   - [x] Installation de PostgreSQL sur la machine
@@ -33,7 +33,7 @@
       - [x] Droits sur les colonnes
     - [x] Gérer la révocation avec REVOKE
       - [x] Comment retirer des droits sur une base de données, une table ou une colonne ?
-      - [ ] Quel est l'impact d'une révocation en cascade ?
+      - [x] Quel est l'impact d'une révocation en cascade ?
 
   - [ ] Les bonnes pratiques de sécurité
     - [ ] Comment appliquer le principe du moindre privilège dans PostgreSQL ?
