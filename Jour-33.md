@@ -15,9 +15,9 @@
   - [x] Installation de pgcli
   - [x] Configuration initiale
     - [x] Ports
-    - [ ] Mot de passe postgres
-    - [ ] Création du premier utilisateur
-  - [ ] Test de la connexion
+    - [x] Mot de passe postgres
+    - [x] Création du premier utilisateur
+  - [x] Test de la connexion
 
 - [ ] Data Control Language (DCL)
   - [ ] Gestion des utilisateurs
