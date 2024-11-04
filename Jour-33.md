@@ -35,7 +35,7 @@
       - [x] Comment retirer des droits sur une base de données, une table ou une colonne ?
       - [x] Quel est l'impact d'une révocation en cascade ?
 
-  - [ ] Les bonnes pratiques de sécurité
-    - [ ] Comment appliquer le principe du moindre privilège dans PostgreSQL ?
-    - [ ] Quand utiliser des rôles plutôt que des utilisateurs individuels ?
-    - [ ] Comment auditer efficacement les droits d'accès ?
+  - [x] Les bonnes pratiques de sécurité
+    - [x] Comment appliquer le principe du moindre privilège dans PostgreSQL ?
+    - [x] Quand utiliser des rôles plutôt que des utilisateurs individuels ?
+    - [x] Comment auditer efficacement les droits d'accès ?
