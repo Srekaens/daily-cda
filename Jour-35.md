@@ -25,4 +25,4 @@
     - [ ] Tri multi-colonnes
   
   - [x] Savoir utiliser DISTINCT
-  - [x] Savoir utiliser LIMIT et OFFSET
+  - [x] Savoir utiliser LIMIT et OFFSETPP
