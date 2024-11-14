@@ -26,7 +26,7 @@
     - [x] Savoir nommer les associations
     - [x] Savoir identifier les cardinalités
 
-- [ ] Les règles de gestion
-  - [ ] Savoir extraire les règles d'un cahier des charges
-  - [ ] Savoir formaliser les règles de gestion
-  - [ ] Savoir valider la cohérence des règles
+- [x] Les règles de gestion
+  - [x] Savoir extraire les règles d'un cahier des charges
+  - [x] Savoir formaliser les règles de gestion
+  - [x] Savoir valider la cohérence des règles
