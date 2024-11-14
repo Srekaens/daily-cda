@@ -13,7 +13,7 @@
   - [x] Les entités
     - [x] Savoir définir les entités
     - [x] Savoir nommer les entités
-    - [ ] Savoir identifier les occurrences
+    - [x] Savoir identifier les occurrences
   
   - [x] Le dictionnaire de données
     - [x] Savoir créer un dictionnaire de données
