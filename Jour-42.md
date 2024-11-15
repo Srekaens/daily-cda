@@ -9,16 +9,16 @@
   - [x] Savoir écrire les cardinalités
   - [x] Savoir valider les cardinalités
 
-- [ ] Les différents types de contraintes
-  - [ ] Savoir définir une contrainte d'intégrité
-  - [ ] Savoir différencier les types de contraintes :
-    - [ ] Contraintes d'intégrité fonctionnelle
-    - [ ] Contraintes d'intégrité physique
+- [x] Les différents types de contraintes
+  - [x] Savoir définir une contrainte d'intégrité
+  - [x] Savoir différencier les types de contraintes :
+    - [x] Contraintes d'intégrité fonctionnelle
+    - [x] Contraintes d'intégrité physique
 
-- [ ] Les contraintes d'intégrité fonctionnelle (CIF)
-  - [ ] Savoir identifier une CIF
-  - [ ] Savoir représenter une CIF sur le MCD
-  - [ ] Savoir valider une CIF
+- [x] Les contraintes d'intégrité fonctionnelle (CIF)
+  - [x] Savoir identifier une CIF
+  - [x] Savoir représenter une CIF sur le MCD
+  - [x] Savoir valider une CIF
 
 - [ ] Les contraintes d'intégrité physique
   - [ ] Savoir identifier une contrainte physique
