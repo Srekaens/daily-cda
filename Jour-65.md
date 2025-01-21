@@ -4,28 +4,28 @@
 
 ### UML - Diagramme de séquences
 
-- [ ] Découverte du diagramme de séquences
-  - [ ] Comprendre ses objectifs
-  - [ ] Identifier les différents éléments
-    - [ ] Les acteurs
-	- [ ] Les messages
-	  - [ ] Comprendre et représenter les messages synchrones
-	  - [ ] Comprendre et représenter les messages asynchrones
-	  - [ ] Comprendre et représenter les messages auto-référencées
-	- [ ] Comprendre et savoir utiliser les structures
-	  - [ ] La structure alt
-	  - [ ] La structure opt
-	  - [ ] La structure loop
-	  - [ ] La structure par
-	  - [ ] La structure ref
+- [x] Découverte du diagramme de séquences
+  - [x] Comprendre ses objectifs
+  - [x] Identifier les différents éléments
+    - [x] Les acteurs
+	- [x] Les messages
+	  - [x] Comprendre et représenter les messages synchrones
+	  - [x] Comprendre et représenter les messages asynchrones
+	  - [x] Comprendre et représenter les messages auto-référencées
+	- [x] Comprendre et savoir utiliser les structures
+	  - [x] La structure alt
+	  - [x] La structure opt
+	  - [x] La structure loop
+	  - [x] La structure par
+	  - [x] La structure ref
 	
-- [ ] Comprendre le passage du diagramme de classes au diagramme de séquences
-  - [ ] Comment passer de l'un à l'autre
-  - [ ] Lien entre les classes et les acteurs
-  - [ ] Comprendre l'utilité pour les développeurs
-  - [ ] Comprendre la possibilité de génération de code
+- [x] Comprendre le passage du diagramme de classes au diagramme de séquences
+  - [x] Comment passer de l'un à l'autre
+  - [x] Lien entre les classes et les acteurs
+  - [x] Comprendre l'utilité pour les développeurs
+  - [x] Comprendre la possibilité de génération de code
   
-- [ ] Cas pratiques :
-  - [ ] Modéliser le diagramme de séquences pour un système de réservation dans un restaurant
-  - [ ] Modéliser le diagramme de séquences pour la réservation d'un livre dans une bibliothèque
+- [x] Cas pratiques :
+  - [x] Modéliser le diagramme de séquences pour un système de réservation dans un restaurant
+  - [x] Modéliser le diagramme de séquences pour la réservation d'un livre dans une bibliothèque
 	  
